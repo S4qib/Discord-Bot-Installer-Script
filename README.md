@@ -18,4 +18,4 @@ Nadeko Bot, Discord.py Template, Discord.js Template, Evobot
 
 # Have any suggestions for a bot?
 
-Open a ticket and i'll reply and add it as soon as i can!
+Open a issue and i'll reply and add it as soon as i can!
