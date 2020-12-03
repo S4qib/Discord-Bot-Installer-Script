@@ -10,11 +10,11 @@ Install Open Source discord bots with hundreds of commands with this install scr
 
 # Current Bots
 
-Dorito Bot and Red Bot
+Dorito Bot, Red Bot, Evo Bot and Atlanta Bot
 
 # Bots planning to be added
 
-Nadeko Bot, Discord.py Template, Discord.js Template, Evobot
+Nadeko Bot & User suggestions!
 
 # Have any suggestions for a bot?
 
