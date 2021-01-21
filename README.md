@@ -10,7 +10,7 @@ Install Open Source discord bots with hundreds of commands with this install scr
 
 # Current Bots
 
-Dorito Bot, Red Bot, Evo Bot and Atlanta Bot
+[Dorito Bot](https://github.com/Aaronidk/Dorito-bot-discord.js), [Red Bot](https://github.com/Cog-Creators/Red-DiscordBot), [Evo Bot](https://github.com/eritislami/evobot), [Atlanta Bot](https://github.com/Androz2091/AtlantaBot) and [OwO Bot](https://github.com/ChristopherBThai/Discord-OwO-Bot)
 
 # Bots planning to be added
 
