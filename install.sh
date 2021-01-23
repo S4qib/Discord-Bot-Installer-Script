@@ -76,6 +76,7 @@ OwOBot()
   echo "[2] Install RedBot"
   echo "[3] Install AtlantaBot"
   echo "[4] Install EvoBot"
+  echo "[5] Install OwOBot"
 
   read -r action
 
