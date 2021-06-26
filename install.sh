@@ -4,7 +4,6 @@ set -e
 
 echo "------------------------"
 echo "|Discord bot installler!"
-echo "|Copyright (C) Feroxus Inc, all rights reserved."
 echo "|Made with <3 by Saqib, licensed under MIT"
 echo "------------------------"
 
